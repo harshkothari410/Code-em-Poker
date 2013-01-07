@@ -1,0 +1,66 @@
+Dealer			1
+Stage			Fifh_Street
+Main_Pot		1500
+		
+Pre_Flop 
+		
+2	Rise 5		
+3	Rise 10			
+4	Rise 50
+5	Call 50
+6	Call 50
+1	Call 50
+2	Call 50
+3	Call 50
+
+End
+
+
+
+Flop
+
+
+28	41	46
+2	Rise 60
+
+3	-
+
+4	Rise 70
+
+5	-
+6	-
+1	Call 70
+
+2	Call 70
+
+End
+
+
+Fourth_Street
+15
+
+2	Call 80
+3	-
+4	-
+5	Rise 90
+6	Call 90
+1	Rise 100
+2	Call 100
+3	Call 100
+4	Call 100
+End
+
+Fifth_Street
+2
+
+2	Call 50
+3	-
+4	Rise 60
+5	Rise 70
+6	Rise 80
+1	Call 80
+2	-
+3	-
+4	Call 80
+5	Call 80
+End	

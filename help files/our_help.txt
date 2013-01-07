@@ -1,0 +1,5 @@
+pre_flop_help file...
+card1	card2	card3	card4	card5	same_card_deci	decision	rise_money	rise_flag_dec	
+//3 lines then  decision of flag lines
+dec1	dec2	dec3
+//if flag1 & flag2 =1 dec1, flag1 & flag3 = 1 dec2,flag2 & flag 3 =1 dec3
